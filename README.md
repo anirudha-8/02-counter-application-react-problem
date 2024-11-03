@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://02-counter-app-react-problem.vercel.app/)
+## ==> [🔥Live Demo](https://02-counter-application-react-problem.vercel.app/)
 
 Welcome to the **second problem** of the React 30+ Practical Problems series! In this challenge, we will create a counter application with increment and decrement functionality.
 
