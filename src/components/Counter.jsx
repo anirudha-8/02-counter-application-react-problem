@@ -10,9 +10,9 @@ const Counter = () => {
 		setCounter(counter - 1);
 	};
 	return (
-		<div>
+		<div className="container">
 			<h1>Counter App</h1>
-			<div>
+			<div className="flex">
 				<button onClick={incrementCounter}>+</button>
 				<p>{counter}</p>
 				<button onClick={decrementCounter}>-</button>
